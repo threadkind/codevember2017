@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+  color: hotpink;
+
+}
+p {
+  color: hotpink;
+  font-family: Arial, sans-serif;
+}
+body {
+  margin: 0;
+  margin-top: 60px;
+  background: #F4FC9F;
+}
+#container { 
+  position: relative; 
+}
+ .canvas { 
+   position: absolute;
+   top: 60; 
+   left: 0; 
+}
+#canvas1 {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fcfad4+0,f4fc9f+100 */
+background: rgb(252,250,212); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, rgba(252,250,212,1) 0%, rgba(244,252,159,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(252,250,212,1) 0%,rgba(244,252,159,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(252,250,212,1) 0%,rgba(244,252,159,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfad4', endColorstr='#f4fc9f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+/* #canvas2 {
+  background: black;
+} */
