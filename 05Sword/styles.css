@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  color: rgb(255,255,255);
+
+}
+p {
+  color: rgb(255,255,255);
+  font-family: Arial, sans-serif;
+}
+
+#canvasWrapper {
+  position: absolute;
+  width: 500px;
+  height: 350px;
+  margin-top: 25px;
+}
+#canvas1 {
+  background: #1aec13;  
+  border-radius: 20px;
+  box-shadow: 5px 5px grey;
+}
