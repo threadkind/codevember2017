@@ -1,10 +1,10 @@
 a {
   text-decoration: none;
-  color: rgb(255,255,255);
+  color: lightBlue;
 
 }
 p {
-  color: rgb(255,255,255);
+  color: lightBlue;
   font-family: Arial, sans-serif;
 }
 #canvasWrapper {
